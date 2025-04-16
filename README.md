@@ -1,4 +1,4 @@
-### Hello, I'm a software developer!
+### Hello, I'm a software engineer!
 
 Experienced in crafting full-stack web applications, from user-friendly interfaces (front-end) to powerful functionalities (back-end) and data management (databases).
 [My portfolio - https://leofaraf.com](https://leofaraf.com/)
